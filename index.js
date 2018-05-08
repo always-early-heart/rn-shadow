@@ -1,3 +1,1 @@
-import Shadow from './shadow';
-
-export default Shadow = Shadow;
+module.exports=require('./shadow')

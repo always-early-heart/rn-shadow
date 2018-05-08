@@ -1,6 +1,6 @@
 {
   "name": "rn-shadow",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "react-native-shadow finfosoft used",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,13 @@
     "shadow"
   ],
   "author": "liupengfei",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/always-early-heart/rn-shadow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/always-early-heart/rn-shadow/issues"
+  },
+  "homepage": "https://github.com/always-early-heart/rn-shadow#readme"
 }
