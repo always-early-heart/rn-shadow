@@ -1,0 +1,16 @@
+{
+  "name": "rn-shadow",
+  "version": "0.0.1",
+  "description": "react-native-shadow finfosoft used",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "finfosoft",
+    "react-native",
+    "shadow"
+  ],
+  "author": "liupengfei",
+  "license": "MIT"
+}
